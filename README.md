@@ -455,6 +455,8 @@ select_and_predict_image()
 - Add real-time camera classification
 
 ---
+You can collect same vertion of google colab codes from this link-
+https://colab.research.google.com/drive/16VEieLiiel4eTJ2I8aeueMUnGI5EmoF2?usp=sharing
 
 **Happy Flower Classification! 🌺🤖**
 
