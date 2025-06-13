@@ -1,4 +1,4 @@
-# 🌺 Flower Classification CNN - Simple Version
+# 🌺 Flower Classification CNN
 
 A clean, simple CNN for classifying flower images. Focus on **image selection testing only**.
 
